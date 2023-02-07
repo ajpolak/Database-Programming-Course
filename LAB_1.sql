@@ -1,5 +1,3 @@
--- Austin Polak
-
 -- Question 1
 SELECT DISTINCT substr(PHONE,1,3) as AreaCode
 FROM CUSTOMER
