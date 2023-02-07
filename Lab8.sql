@@ -1,10 +1,4 @@
---Austin Polak, Jeffrey Tsai
---CNIT 372 Lab 8: Part B
---11/10/2021
-
---Partner 1: Austin Polak
---partner 2: Jeffrey Tsai
-
+--Lab 8: Part B
 --B1
 CREATE OR REPLACE VIEW SUPERVISOR AS
 	SELECT SUPERVISOR, COUNT(EMPLOYEEID) AS EMPLOYEEID
