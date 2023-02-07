@@ -1,5 +1,3 @@
--- Austin Polak
---CNIT 37200
 --Lab 3
 
 -- Question 1a
