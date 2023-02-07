@@ -1,5 +1,4 @@
--- Austin Polak
-
+-- Lab 5
 -- Question 1a
 CREATE OR REPLACE PROCEDURE PRINT_EMPLOYEE_ROSTER
 AS
