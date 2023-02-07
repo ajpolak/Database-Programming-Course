@@ -1,5 +1,4 @@
--- Austin Polak
-
+-- Lab 7
 -- Question 1a
 CREATE OR REPLACE PACKAGE MATH_CONSTANTS
 IS
