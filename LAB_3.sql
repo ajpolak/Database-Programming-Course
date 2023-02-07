@@ -1,5 +1,4 @@
 --Lab 3
-
 -- Question 1a
 begin
         DBMS_OUTPUT.PUT_LINE ('Hello world');
