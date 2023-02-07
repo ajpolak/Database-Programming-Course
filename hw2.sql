@@ -1,6 +1,4 @@
--- Austin Polak, Luke Siemers, Anh Nguyen
 -- HW2
--- 10/25/2021
 DROP TABLE hw2_q1_zipcode;
 
 SET HEADING ON;
