@@ -1,4 +1,3 @@
---Austin Polak
 --Lab 9
 
 -- Question 1
