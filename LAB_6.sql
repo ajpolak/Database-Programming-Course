@@ -1,5 +1,4 @@
--- Austin Polak
-
+-- Lab 6
 -- Question 1
 CREATE TABLE PERSON_OF_INTEREST (
 NAME VARCHAR2(20),
