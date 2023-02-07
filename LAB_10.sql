@@ -1,4 +1,3 @@
---Austin Polak
 --Lab 10
 DROP TABLE airdb_airports;
 
