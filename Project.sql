@@ -1,5 +1,3 @@
--- Group Members: Austin Polak, Jeffrey Tsai, Zhenyou Liu, Dylan Goudy
--- CNIT372
 -- Project Bookstore Management 
 
 drop table BRANCH;
