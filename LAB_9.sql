@@ -1,5 +1,4 @@
 --Lab 9
-
 -- Question 1
 drop table lab9_employee;
 --1A
