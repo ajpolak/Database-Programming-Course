@@ -1,7 +1,4 @@
 HW1
---Mark Holstrom
---Jeffrey Tsai
---Austin Polak
 Question1 
 
 CREATE TABLE firstname
