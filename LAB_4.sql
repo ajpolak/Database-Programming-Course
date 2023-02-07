@@ -1,5 +1,3 @@
--- Austin Polak
-
 -- Question 1a
 CREATE OR REPLACE PROCEDURE HELLO_WORLD
 AS
