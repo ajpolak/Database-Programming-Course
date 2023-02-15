@@ -1,1 +1,1 @@
-# CNIT-372---Database-Programming
+# Database-Programming with PL/SQL
